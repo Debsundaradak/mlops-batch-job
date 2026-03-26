@@ -1,0 +1,9 @@
+2026-03-25T18:05:15 [INFO] === Job started ===
+2026-03-25T18:05:15 [INFO] Config loaded and validated — seed=42, window=5, version=v1
+2026-03-25T18:05:15 [DEBUG] NumPy random seed set to 42
+2026-03-25T18:05:15 [INFO] Dataset loaded — 10000 rows, columns: ['timestamp', 'open', 'high', 'low', 'close', 'volume_btc', 'volume_usd']
+2026-03-25T18:05:15 [INFO] Rolling mean computed (window=5) — 4 warm-up rows excluded from signal
+2026-03-25T18:05:15 [INFO] Signal generated — 9996 valid rows (signal=1: 4989, signal=0: 5007)
+2026-03-25T18:05:15 [INFO] Metrics — rows_processed=9996, signal_rate=0.4991, latency_ms=57
+2026-03-25T18:05:15 [INFO] Metrics written to metrics.json
+2026-03-25T18:05:15 [INFO] === Job completed successfully ===
