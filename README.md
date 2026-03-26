@@ -118,11 +118,3 @@ If the job fails for any reason (missing file, bad config, missing column, …) 
 ```
 
 ---
-
-## Contact / Submission
-
-Send your GitHub repo link + log files to:
-- joydip@anything.ai
-- chetan@anything.ai
-- hello@anything.ai
-- CC: sonika@anything.ai
